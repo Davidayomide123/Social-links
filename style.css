@@ -4,12 +4,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 50px;
     
 }
 
 .container{
     flex-direction: column;
-    height: 670px;
+    height: 640px;
     width: 420px;
     border-radius: 10px;
     background-color: hsl(0, 0%, 12%);
